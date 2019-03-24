@@ -2,8 +2,7 @@
 
 ## About 
 
-This is a basic calculator web aplication which includes summing, substraction, multiplication, division, square root and exponentiation of 
-integers and decimal numbers.
+This is a basic calculator web application which includes operations of summing, substraction, multiplication, division, square root determination and exponentiation of integers and decimal numbers.
 
 ## Technologies 
 
@@ -14,7 +13,7 @@ integers and decimal numbers.
 
 ## Purpose
 
-Inceacement and improvement of knowledge in above mentioned tools.
+Inceasement and improvement of knowledge in above mentioned tools.
 
 ## Author 
 
