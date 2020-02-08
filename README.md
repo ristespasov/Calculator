@@ -3,6 +3,7 @@
 ## About 
 
 This is a basic calculator web application which includes operations of summing, substraction, multiplication, division, square root determination and exponentiation of integers and decimal numbers.
+![](git-images/1.png)
 
 ## Technologies 
 
@@ -13,7 +14,7 @@ This is a basic calculator web application which includes operations of summing,
 
 ## Purpose
 
-Inceasement and improvement of knowledge in above mentioned tools.
+JavaScript project for Seavus Code Academy.
 
 ## Author 
 
